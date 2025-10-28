@@ -1,0 +1,13 @@
+Domain,Model,attention_entropy,cls_attention_max,content_vs_function,self_attention_mean
+Business,BERT,55.365,0.111,3.344,0.105
+Business,DistilBERT,58.253,0.197,3.143,0.083
+Business,RoBERTa,53.341,0.267,31.708,0.133
+Sci/Tech,BERT,50.914,0.123,7.479,0.112
+Sci/Tech,DistilBERT,52.223,0.211,7.841,0.089
+Sci/Tech,RoBERTa,51.451,0.289,38.574,0.129
+Sports,BERT,61.612,0.106,2.803,0.101
+Sports,DistilBERT,65.759,0.173,2.013,0.083
+Sports,RoBERTa,59.828,0.269,27.725,0.13
+World,BERT,55.811,0.127,5.519,0.104
+World,DistilBERT,57.042,0.182,5.542,0.082
+World,RoBERTa,54.705,0.274,33.588,0.128
