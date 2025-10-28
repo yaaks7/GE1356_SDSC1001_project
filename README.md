@@ -61,6 +61,7 @@ Measures the dispersion of attention.
 
 ## Installation 
 
+### Local
 1. **Clone the repository**
 ```bash
 git clone https://github.com/yaaks7/GE1356_SDSC1001_project.git
@@ -76,6 +77,10 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook attention-comparison.ipynb
 ```
+
+### Google Colab
+
+[Google Colab](https://colab.research.google.com/github/yaaks7/GE1356_SDSC1001_project/blob/main/attention-comparison.ipynb)
 
 
 ## References
